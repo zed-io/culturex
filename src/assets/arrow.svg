@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="47px" viewBox="0 0 181 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-770.000000, -685.000000)" stroke="#FFFFFF" stroke-width="5">
+            <g id="Group-4" transform="translate(770.139797, 688.000000)">
+                <line x1="0" y1="20.5" x2="177.91641" y2="20.5" id="Path-5"></line>
+                <path d="M156.254381,0 C157.525347,5.37014571 159.987591,9.78398514 163.641112,13.2415183 C167.294633,16.6990514 172.053066,19.1185453 177.91641,20.5" id="Path-6" stroke-linecap="round"></path>
+                <path d="M156.254381,21 C157.525347,26.3701457 159.987591,30.7839851 163.641112,34.2415183 C167.294633,37.6990514 172.053066,40.1185453 177.91641,41.5" id="Path-6-Copy" stroke-linecap="round" transform="translate(167.085396, 31.250000) scale(1, -1) translate(-167.085396, -31.250000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

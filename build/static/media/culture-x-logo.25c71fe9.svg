@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="52px" viewBox="0 0 179 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-54.000000, -29.000000)">
+            <g id="Group-3" transform="translate(54.000000, 29.000000)">
+                <g id="Group-2">
+                    <polygon id="x" fill="#33FF00" fill-rule="nonzero" points="144.99 51.48 132.347526 27.1350192 133 25.74 146.53 51.48 178.32 51.48 166.33 25.74 178.32 1.42108547e-14 154.23 1.42108547e-14 166.853489 24.6278857 166.33 25.74 152.8 1.42108547e-14 121.01 1.42108547e-14 133 25.74 121.01 51.48"></polygon>
+                    <g id="Group" transform="translate(0.000000, 3.480000)">
+                        <rect id="Rectangle-Copy-4" stroke="#FFFFFF" stroke-width="0.8" x="119.4" y="28.4" width="7.2" height="7.2"></rect>
+                        <text id="C-Copy" font-family="HalfRegularRegular, Half Regular" font-size="49.5" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="36">C</tspan>
+                        </text>
+                        <path d="M66.2451861,34.5434045 C66.6708448,34.5434045 67.0162542,34.1980344 67.0162542,33.7723757 L67.0162542,30.5463331 C67.0162542,30.1200467 66.6708448,29.7746766 66.2451861,29.7746766 L61.2170968,29.7746766 C60.9814816,29.7746766 60.7901842,29.5840062 60.7901842,29.348391 L60.7901842,2.1066095 C60.7901842,1.68095074 60.4447749,1.3355414 60.0191162,1.3355414 L55.7710688,1.3355414 C55.3447817,1.3355414 54.9999992,1.68095074 54.9999992,2.1066095 L54.9999992,33.7723757 C54.9999992,34.1980344 55.3447817,34.5434045 55.7710681,34.5434045 L66.2451861,34.5434045 Z" id="l" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <text id="t" font-family="HalfRegular, Half" font-size="49.5" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="71" y="25">t</tspan>
+                        </text>
+                        <text id="u-copy-2" font-family="HalfRegular, Half" font-size="49.5" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="25" y="36">u</tspan>
+                        </text>
+                        <text id="u-copy-3" font-family="HalfRegular, Half" font-size="49.5" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="91" y="36">u</tspan>
+                        </text>
+                        <text id="r" font-family="HalfRegular, Half" font-size="49.5" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="119" y="25">r</tspan>
+                        </text>
+                        <text id="E" font-family="HalfRegularRegular, Half Regular" font-size="49.5" font-weight="normal" fill="#000000">
+                            <tspan x="137" y="35">E</tspan>
+                        </text>
+                        <line x1="126.5" y1="28.5" x2="119.5" y2="35.5" id="Path-2-Copy-2" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round"></line>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(77.000000, 31.480000)" stroke="#FFFFFF" stroke-width="0.8">
+                    <rect id="Rectangle-Copy-2" x="0.4" y="0.4" width="6.2" height="7.2"></rect>
+                    <line x1="6.5625" y1="0.5" x2="0.4375" y2="7.5" id="Path-2-Copy" stroke-linecap="round"></line>
+                </g>
+                <g id="Group-2-Copy-3" transform="translate(25.000000, 14.480000)" stroke="#FFFFFF" stroke-width="0.8">
+                    <rect id="Rectangle-Copy-2" x="0.4" y="0.4" width="6.2" height="7.2"></rect>
+                    <line x1="6.5625" y1="0.5" x2="0.4375" y2="7.5" id="Path-2-Copy" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
