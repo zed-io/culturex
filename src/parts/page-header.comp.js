@@ -7,7 +7,6 @@ import {
   Flex,
   Center,
   Image,
-  Heading,
   IconButton,
   Text,
   useDisclosure,
@@ -18,7 +17,6 @@ import {
   DrawerBody,
   Link,
   VStack,
-  // DrawerHeader,
 } from "@chakra-ui/react"
 import {HamburgerIcon} from "@chakra-ui/icons"
 

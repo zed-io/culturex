@@ -8,16 +8,13 @@ import {
   Button,
   Image,
   Icon,
-  IconButton,
   Tooltip,
   createIcon,
   IconProps,
-  useColorModeValue,
 } from '@chakra-ui/react';
 
 import purchaseButton from '../assets/purchase-button.png'
 import diaperVid from '../assets/diaper.mp4'
-import {AspectRatio} from "@chakra-ui/layout"
 
 export default function CallToActionWithVideo() {
   return (
