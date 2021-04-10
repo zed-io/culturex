@@ -1,48 +1,34 @@
-# Kitty Items Web
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-- An example application built to use the Flow blockchain.
-- The majority of its features are directly powered by on-chain contracts.
+## Getting Started
 
-You can see a working demo of this app at 
-[https://dark-frost-1788.on.fleek.co/](https://dark-frost-1788.on.fleek.co/).
-It is hosted on IPFS via [https://fleek.co/](https://fleek.co/).
+First, run the development server:
 
-## Run locally against Flow Testnet
-
-### Prerequisites
-
-You'll need to complete the following steps before launching this app:
-
-- [Deploy the Kitty Items contracts](https://github.com/onflow/kitty-items/tree/master/#4-deploy-the-contracts)
-- [Configure and start the API](https://github.com/onflow/kitty-items/tree/master/api#readme)
-
-Add your Testnet Flow address to the environment:
-
-```sh
-# Replace this value with your own!
-export FLOW_ADDRESS=0xabcdef12345689
+```bash
+npm run dev
+# or
+yarn dev
 ```
 
-### 1. Configure your environment
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Create a copy of `.env.example`:
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-```sh
-cd ./web
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-cp .env.example .env.local
-```
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-### 2. Install and run the app!
+## Learn More
 
-```sh
-npm install       # install dependencies
-npm run start:dev # start the web app
-```
+To learn more about Next.js, take a look at the following resources:
 
-## Learn more
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-If you are wanting to learn more about what is happening in here we recommend checking out the [FCL Quick Start Guide](https://github.com/onflow/flow-js-sdk/tree/master/packages/fcl#flow-app-quickstart).
-In it you will see a lot of overlap of the code in this project.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-If you have any questions, comments, or concerns (or just want to say hi!), we would love to have your company in the [Flow Discord server](https://discord.gg/k6cZ7QC).
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
